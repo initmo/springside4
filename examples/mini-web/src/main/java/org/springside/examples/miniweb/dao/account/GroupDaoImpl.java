@@ -10,7 +10,7 @@ import org.springside.examples.miniweb.entity.account.Group;
 import org.springside.examples.miniweb.entity.account.User;
 
 /**
- * GroupDao的扩展行为实现类.
+ * GroupDao的行为扩展实现类.
  */
 @Component
 public class GroupDaoImpl implements GroupDaoCustom {
